@@ -1,5 +1,4 @@
-import React from 'react'
-
+// name and component and function should be in capital letter
 const Chai = () => {
   return (
     <div>
@@ -7,5 +6,4 @@ const Chai = () => {
     </div>
   )
 }
-
 export default Chai
